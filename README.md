@@ -1,4 +1,4 @@
-# Welcome to my WordPress projects
+# Welcome!! Here are Wordpress websites I've worked on during my 1st job.
 This file contains all Wordpress websites including both informative and the e-ccomerce also. **Client websites are tagged with their respective industries(e.g., healthcare) for easy reference.**
 
 [Ontario Imaging Diagnostics](https://ontid.ca/) {Healthcare}
