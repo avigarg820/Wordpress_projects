@@ -26,6 +26,7 @@ This file contains all Wordpress websites including both informative and the e-c
 [GLobal Assignment Hub](https://globalassignmenthub.com/) {Education}
 [Akal Group Of Institutes](https://agisangrur.in/) {Education -> 4 Branches including Schools & Colleges}
 [Med Legal Aid](https://medilegalaid.com/) {Medical Malpractice}
+[Nutty Golak](https://nuttygolak.com) {A Canadian Healthy Snacks Brand}
 
 
 
