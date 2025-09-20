@@ -1,5 +1,5 @@
-# Welcome!! Here are Wordpress websites I've worked on during my 1st job.
-This file contains all Wordpress websites including both informative and the e-ccomerce also. **Client websites are tagged with their respective industries(e.g., healthcare) for easy reference.**
+# Welcome!! Here are Wordpress Projects.
+This file contains all Wordpress websites, including both informative and e-commerce websites. **Client websites are tagged with their respective industries(e.g., healthcare) for easy reference.**
 
 [Ontario Imaging Diagnostics](https://ontid.ca/) {Healthcare}
 [Genweigh](https://genweigh.in/)  {Manufacturing Industry}
